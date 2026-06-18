@@ -2,6 +2,7 @@
 Program Name: Geometry Calculator
 Author: Kishan Atada
 Purpose: Calculate the area, circumference, and perimeter of shapes.
+Starter Code: No starter code was used
 Date: June 17, 2026
 
 """
